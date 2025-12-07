@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "初夏",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-07T23:00:02.219602Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初夏、殺意は街を浸す病のように",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_初夏、殺意は街を浸す病のように_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初夏、殺意は街を浸す病のように",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_初夏、殺意は街を浸す病のように_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "初夏",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_初夏_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初夏",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_初夏_Ado.txt"
+    }
+  ]
+}
